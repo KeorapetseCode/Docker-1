@@ -1,1 +1,1 @@
-docker inspect --format ' {{ .NetworkSettings.IPAddress }}' roach-warden
+docker inspect --format ' {{ .NetworkSettings.IPAddress }}' lair
