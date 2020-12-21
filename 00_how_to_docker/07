@@ -1,1 +1,1 @@
-docker inspect --format ' {{ .NetworkSettings.IPAddress }}' lair
+docker inspect --format ' {{ .NetworkSettings.IPAddress }}' Abathur
