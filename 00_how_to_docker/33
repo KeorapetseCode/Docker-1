@@ -1,1 +1,1 @@
-docker rmi --force $(docker images --all --quiet)
+docker rmi --force $(docker images --all -q)
