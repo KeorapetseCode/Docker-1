@@ -1,6 +1,5 @@
 # Docker-1
-Introduction to containerization. <br />
-First project in the DevOps module.<br />
+Introduction to containerization. First project in the DevOps module.<br />
 # Objective
 Introduce students to containers, VM's and Docker.<br />
 # How To Run
